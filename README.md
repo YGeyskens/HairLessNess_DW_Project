@@ -19,19 +19,19 @@ Le site doit être accessible et intuitif
 Les clientes désirent une page d'accueil simple comprennant les onglets, une photo principale d'un des chat et possiblement une fiche  de contact slide
 
 Les onglets:
-
+```
   1. Les chatons à vendre
   2. Les chats adultes reproducteurs
   3. La/Les albums photos
   4. Historique
   5. Page de contact
-
+```
 ### Onglet Chatons à vendre
 
 Cet onglets doit comprendre une fiche type et une zone avec les chatons disponibles ou à réserver.
 
 Fiche des chatons:
-
+```
   1. Le nom
   2. Le sexe
   3. La couleur de la robe
@@ -39,7 +39,7 @@ Fiche des chatons:
   5. La date de naissance
   6. La/les caractéristique.s particulière.s
   7. Un texte descriptif
-
+```
 Dans la partie chatons (vente et reservation): Bien indiquer le prix (entre 900 et 1500€)
 
 ### Onglet chatons adultes reproducteurs
@@ -49,40 +49,40 @@ Cet onglet doit comprendre une petite fiche moins exaustive des deux catégories
 Les chats seront divisés en deux catégories : Etalons et Femelles
 
 Fiche des chats:
-
+```
   1. Nom
   2. Lien avec une/des portée.s
   3. Titre (si existant)
   4. Texte descriptif
   5. Photo et vidéo
-
+```
 ### Onglet Album photo
 
 Cet onglet comprendra l'entièrté des photos des chats mais aussi de la chatterie en général
 
 Photos:
-
+```
 	1. Chatterie naissance et premières semaines
 	2. Salle de jeu pour chatons
 	3. Période de sevrage
 	4. Anciens reproducteurs
 	5. Que sont devenus les chatons apres la vente
-
+```
 ### Onglet Historique
 
 Cet onglet comprendra l'historique de la société en plus des informations liées aux maladies des chats et des instances de soins pour les chats et chatons
 
 Historique:
-
+```
 	1. un texte structuré sur la race, son origine,...
-	2. Expnlication sur les concours (représentant aussi un moyen de vente)
+	2. Explication sur les concours (représentant aussi un moyen de vente)
   3. Standard de la races
   4. Histoire de la chatterie + quels chats ont été achetés et pourquoi
   5. Explication du sevrage
   6. Maladies spécifiques
   7. Instances de soins (un vétérinaire vient une fois par semaine et les chats sont biens suivis)
 	8. Photos
-
+```
 ### Onglet livre d’or
 
 Cet onglet comprendra le livre d'or intégrant les commentaires favorables
