@@ -20,11 +20,11 @@ Les clientes désirent une page d'accueil simple comprennant les onglets, une ph
 
 Les onglets:
 ```
-  1. Les chatons à vendre
-  2. Les chats adultes reproducteurs
-  3. La/Les albums photos
-  4. Historique
-  5. Page de contact
+1. Les chatons à vendre
+2. Les chats adultes reproducteurs
+3. La/Les albums photos
+4. Historique
+5. Page de contact
 ```
 ### Onglet Chatons à vendre
 
@@ -32,13 +32,13 @@ Cet onglets doit comprendre une fiche type et une zone avec les chatons disponib
 
 Fiche des chatons:
 ```
-  1. Le nom
-  2. Le sexe
-  3. La couleur de la robe
-  4. La couleur des yeux (important pour les chats de races)
-  5. La date de naissance
-  6. La/les caractéristique.s particulière.s
-  7. Un texte descriptif
+1. Le nom
+2. Le sexe
+3. La couleur de la robe
+4. La couleur des yeux (important pour les chats de races)
+5. La date de naissance
+6. La/les caractéristique.s particulière.s
+7. Un texte descriptif
 ```
 Dans la partie chatons (vente et reservation): Bien indiquer le prix (entre 900 et 1500€)
 
@@ -50,11 +50,11 @@ Les chats seront divisés en deux catégories : Etalons et Femelles
 
 Fiche des chats:
 ```
-  1. Nom
-  2. Lien avec une/des portée.s
-  3. Titre (si existant)
-  4. Texte descriptif
-  5. Photo et vidéo
+1. Nom
+2. Lien avec une/des portée.s
+3. Titre (si existant)
+4. Texte descriptif
+5. Photo et vidéo
 ```
 ### Onglet Album photo
 
@@ -62,11 +62,11 @@ Cet onglet comprendra l'entièrté des photos des chats mais aussi de la chatter
 
 Photos:
 ```
-	1. Chatterie naissance et premières semaines
-	2. Salle de jeu pour chatons
-	3. Période de sevrage
-	4. Anciens reproducteurs
-	5. Que sont devenus les chatons apres la vente
+1. Chatterie naissance et premières semaines
+2. Salle de jeu pour chatons
+3. Période de sevrage
+4. Anciens reproducteurs
+5. Que sont devenus les chatons apres la vente
 ```
 ### Onglet Historique
 
@@ -74,14 +74,14 @@ Cet onglet comprendra l'historique de la société en plus des informations lié
 
 Historique:
 ```
-	1. un texte structuré sur la race, son origine,...
-	2. Explication sur les concours (représentant aussi un moyen de vente)
-  3. Standard de la races
-  4. Histoire de la chatterie + quels chats ont été achetés et pourquoi
-  5. Explication du sevrage
-  6. Maladies spécifiques
-  7. Instances de soins (un vétérinaire vient une fois par semaine et les chats sont biens suivis)
-	8. Photos
+1. un texte structuré sur la race, son origine,...
+2. Explication sur les concours (représentant aussi un moyen de vente)
+3. Standard de la races
+4. Histoire de la chatterie + quels chats ont été achetés et pourquoi
+5. Explication du sevrage
+6. Maladies spécifiques
+7. Instances de soins (un vétérinaire vient une fois par semaine et les chats sont biens suivis)
+8. Photos
 ```
 ### Onglet livre d’or
 
